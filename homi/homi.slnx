@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="homi.API/homi.API.csproj" />
+  <Project Path="homi.DOMAIN/homi.DOMAIN.csproj" />
+  <Project Path="homi.INFRASTRUCTURE/homi.INFRASTRUCTURE.csproj" />
+  <Project Path="homi.TEST/homi.TEST.csproj" />
+</Solution>

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\laura\\Documents\\Proyectos\\homi\\homi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2DBEA7B-32E6-48BD-85C3-48611B104154}|homi.API\\homi.API.csproj|c:\\users\\laura\\documents\\proyectos\\homi\\homi\\homi.api\\homi.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{E2DBEA7B-32E6-48BD-85C3-48611B104154}|homi.API\\homi.API.csproj|solutionrelative:homi.api\\homi.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2DBEA7B-32E6-48BD-85C3-48611B104154}|homi.API\\homi.API.csproj|c:\\users\\laura\\documents\\proyectos\\homi\\homi\\homi.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2DBEA7B-32E6-48BD-85C3-48611B104154}|homi.API\\homi.API.csproj|solutionrelative:homi.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2DBEA7B-32E6-48BD-85C3-48611B104154}|homi.API\\homi.API.csproj|c:\\users\\laura\\documents\\proyectos\\homi\\homi\\homi.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2DBEA7B-32E6-48BD-85C3-48611B104154}|homi.API\\homi.API.csproj|solutionrelative:homi.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2DBEA7B-32E6-48BD-85C3-48611B104154}|homi.API\\homi.API.csproj|c:\\users\\laura\\documents\\proyectos\\homi\\homi\\homi.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2DBEA7B-32E6-48BD-85C3-48611B104154}|homi.API\\homi.API.csproj|solutionrelative:homi.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "homi.API.http",
+              "DocumentMoniker": "C:\\Users\\laura\\Documents\\Proyectos\\homi\\homi\\homi.API\\homi.API.http",
+              "RelativeDocumentMoniker": "homi.API\\homi.API.http",
+              "ToolTip": "C:\\Users\\laura\\Documents\\Proyectos\\homi\\homi\\homi.API\\homi.API.http",
+              "RelativeToolTip": "homi.API\\homi.API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-02-20T16:54:10.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\laura\\Documents\\Proyectos\\homi\\homi\\homi.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "homi.API\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\laura\\Documents\\Proyectos\\homi\\homi\\homi.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "homi.API\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T16:54:06.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\laura\\Documents\\Proyectos\\homi\\homi\\homi.API\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "homi.API\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\laura\\Documents\\Proyectos\\homi\\homi\\homi.API\\WeatherForecast.cs",
+              "RelativeToolTip": "homi.API\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T16:54:03.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\laura\\Documents\\Proyectos\\homi\\homi\\homi.API\\Program.cs",
+              "RelativeDocumentMoniker": "homi.API\\Program.cs",
+              "ToolTip": "C:\\Users\\laura\\Documents\\Proyectos\\homi\\homi\\homi.API\\Program.cs",
+              "RelativeToolTip": "homi.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T16:54:00.464Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
